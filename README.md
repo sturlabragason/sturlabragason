@@ -9,9 +9,9 @@
       title: Cloud Specialist
         working_with: [ Azure Devops, Azure, Terraform, pwsh, az cli, git, IAM ]
         description: |
-                  A senior member of the company's flagship
-                  cloud center of excellence project. Enabling
-                  developers to deploy to Azure easily and safely.
+                  Bleeding edge Azure platform
+                  development building scalable
+                  innovative managed services.
   - company:  Omada, 2017 - 2019
       title: Senior Consultant
         worked_on: [ PowerShell, Software Deployment, Infrastructure Training, SQL, SSIS, AD ] 
