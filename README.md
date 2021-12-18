@@ -1,3 +1,12 @@
+<center>
+
+| Repository | Status |
+|--|--|
+| [`sturlabragason/sturlabragason_github_managment`](https://github.com/sturlabragason/sturlabragason_github_managment) | [![Setup and run Terraform](https://github.com/sturlabragason/sturlabragason_github_managment/actions/workflows/terraform.yml/badge.svg)](https://github.com/sturlabragason/sturlabragason_github_managment/actions/workflows/terraform.yml)   |
+
+</center>
+
+
 ```yaml
 - name: Sturla Bragason
     soft_skills: [ Active Learner, Critical Thinker, Asynchronous Communication ]
@@ -31,8 +40,4 @@
       degree: Mechatronics Bsc. (Unfinished)
       
 ```
-
-| Repository | Status |
-|--|--|
-| [`sturlabragason/sturlabragason_github_managment`](https://github.com/sturlabragason/sturlabragason_github_managment) | [![Setup and run Terraform](https://github.com/sturlabragason/sturlabragason_github_managment/actions/workflows/terraform.yml/badge.svg)](https://github.com/sturlabragason/sturlabragason_github_managment/actions/workflows/terraform.yml)   |
 
