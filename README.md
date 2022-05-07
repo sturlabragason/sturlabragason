@@ -4,6 +4,7 @@
 |--|--|
 | [`sturlabragason/sturlabragason_github_managment`](https://github.com/sturlabragason/sturlabragason_github_managment) | [![Setup and run Terraform](https://github.com/sturlabragason/sturlabragason_github_managment/actions/workflows/terraform.yml/badge.svg)](https://github.com/sturlabragason/sturlabragason_github_managment/actions/workflows/terraform.yml)   |
 | [`sturlabragason/terraform_state_artifact`](https://github.com/sturlabragason/terraform_state_artifact) | [![Terraform State Artifact](https://github.com/sturlabragason/terraform_state_artifact/actions/workflows/terraform.yml/badge.svg)](https://github.com/sturlabragason/terraform_state_artifact/actions/workflows/terraform.yml)   |
+| [![Setup and run Terraform](https://github.com/sturlabragason/terraform_backstage/actions/workflows/deploy.yml/badge.svg)](https://github.com/sturlabragason/terraform_backstage/actions/workflows/deploy.yml)   |
 
 </center>
 
@@ -17,7 +18,7 @@
 - experience:
   - company: Cloudeon, 2019 - Present
       title: Cloud Specialist
-        working_with: [ Azure Devops, Azure, Terraform, pwsh, az cli, git, IAM ]
+        working_with: [ Azure Devops, Github, Terraform Cloud, Azure, APIs, Terraform, pwsh, az cli, git, IAM ]
         description: |
                   Bleeding edge Azure platform
                   development building scalable
