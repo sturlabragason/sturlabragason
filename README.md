@@ -1,13 +1,3 @@
-<center>
-
-| Repository | Status |
-|--|--|
-| [`sturlabragason/sturlabragason_github_managment`](https://github.com/sturlabragason/sturlabragason_github_managment) | [![Setup and run Terraform](https://github.com/sturlabragason/sturlabragason_github_managment/actions/workflows/terraform.yml/badge.svg)](https://github.com/sturlabragason/sturlabragason_github_managment/actions/workflows/terraform.yml)   |
-| [`sturlabragason/terraform_state_artifact`](https://github.com/sturlabragason/terraform_state_artifact) | [![Terraform State Artifact](https://github.com/sturlabragason/terraform_state_artifact/actions/workflows/terraform.yml/badge.svg)](https://github.com/sturlabragason/terraform_state_artifact/actions/workflows/terraform.yml)
-
-</center>
-
-
 ```hcl
 person {
     name: "Sturla Bragason",
@@ -15,10 +5,10 @@ person {
     hard_skills: ["DevOps", "IaC", "RERO"],
     personal_causes: ["Radical Open Source", "Net Neutrality", "Degrowth"],
     experience {
-        company: "Cloudeon",
+        company: "Devoteam",
         start_year: 2019,
         end_year: "Present",
-        title: "Cloud Specialist",
+        title: "Senior DevOps Engineer",
         working_with: ["Azure Devops", "Github", "Terraform Cloud", "Azure", "APIs", "Terraform", "pwsh", "az cli", "git", "IAM"],
         description: "Bleeding edge Azure platform development building scalable innovative managed services."
     },
