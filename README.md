@@ -1,16 +1,16 @@
 ```hcl
 person {
     name: "Sturla Bragason",
-    soft_skills: ["Active Learner", "Critical Thinker", "Asynchronous Communication"],
-    hard_skills: ["DevOps", "IaC", "RERO"],
-    personal_causes: ["Radical Open Source", "Net Neutrality", "Degrowth"],
+    soft_skills: ["Active Learner", "Critical Thinker", "Asynchronous Communication", "Collaboration", "Open-source Practices"],
+    hard_skills: ["DevOps", "IaC", "Cloud Engineering", "Terraform"],
+    personal_causes: ["Open Information", "Blockchain", "Web3", "Decentralization"],
     experience {
         company: "Devoteam",
         start_year: 2019,
         end_year: "Present",
         title: "Senior DevOps Engineer",
         working_with: ["Azure Devops", "Github", "Terraform Cloud", "Azure", "APIs", "Terraform", "pwsh", "az cli", "git", "IAM"],
-        description: "Bleeding edge Azure platform development building scalable innovative managed services."
+        description: "Led team in leveraging our collective strengths to achieve exceptional results in cloud engineering, DevOps, and Terraform development. Advocated for open-source practices and collaboration."
     },
     experience {
         company: "Omada",
