@@ -1,4 +1,4 @@
-As a Principal Architect I lead Cloud, DevOps, and AI initiatives at @Devoteam
+As a Principal Architect I lead Cloud, DevOps, and AI initiatives at [@Devoteam](https://github.com/Devoteam)
 
 I deliver — consistently, decisively, making every collaboration a testament to excellence.
 
