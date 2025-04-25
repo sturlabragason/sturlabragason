@@ -1,4 +1,9 @@
-- As a Principal Architect I lead Cloud, DevOps, and AI initiatives at [@Devoteam](https://github.com/Devoteam)
-- I deliver — consistently, decisively, making every collaboration a testament to excellence.
-- I cultivate holistic solutions through independent and strategic thinking.
-- I foster a culture of innovation, openness and collaboration — making every team effort a showcase of our collective strength.
+I’m good at: devops, git+ops, iac, linux, containers, cloud, moonshots
+
+I’m also good at: “funny” jokes, dx, scrum, strategy, system design, remote-first, backlogs
+
+I’m bad at: documents, too many pointless meetings, bureaucracy
+
+I like: HCL, Bash and Python. I haven't found a problem that can't be solved by these three. I can get by with most everything else if necessary. 
+
+I don't like: proprietary solutions, lack of inner-sourcing
